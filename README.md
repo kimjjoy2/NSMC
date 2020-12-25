@@ -17,9 +17,9 @@ Friends는 bert-base-multilingual-cased 모델을 이용하였습니다.
 
 1. 소스 코드
 
->> NSMC_KoELECTRA.ipynb : KoELECTRA 모델 사용
+  > NSMC_KoELECTRA.ipynb : KoELECTRA 모델 사용
 
->> NSMC_Bert : BERT base multilingual 모델 사용
+  > NSMC_Bert : BERT base multilingual 모델 사용
 
 2. 실행 방법
 >> 1) 모든 셀을 차례대로 실행
