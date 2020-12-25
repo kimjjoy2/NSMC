@@ -22,18 +22,18 @@ Friends는 bert-base-multilingual-cased 모델을 이용하였습니다.
   > NSMC_Bert : BERT base multilingual 모델 사용
 
 2. 실행 방법
->> 1) 모든 셀을 차례대로 실행
->> 2) 데이터 전처리 및 모델 load
->> 3) Traning, Test 
->> 4) Kggle 결과 확인
+> 1) 모든 셀을 차례대로 실행
+> 2) 데이터 전처리 및 모델 load
+> 3) Traning, Test 
+> 4) Kggle 결과 확인
   
 3. 참고 문헌 및 코드
 
->> [KoELECTRA](https://github.com/monologg/KoELECTRA)
+> [KoELECTRA](https://github.com/monologg/KoELECTRA)
 
->> [https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing](https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing)
+> [https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing](https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing)
 
->> [https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
+> [https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
 
 
 
@@ -41,14 +41,14 @@ Friends는 bert-base-multilingual-cased 모델을 이용하였습니다.
 
 1. 소스 코드
 
->> Friends_electra.ipynb :  BERT base multilingual 모델 사용
+> Friends_electra.ipynb :  BERT base multilingual 모델 사용
 
 2. 실행 방법
->> 1) 모든 셀을 차례대로 실행
->> 2) 데이터 전처리 및 모델 load
->> 3) Traning, Test 
->> 4) Kggle 결과 확인
+> 1) 모든 셀을 차례대로 실행
+> 2) 데이터 전처리 및 모델 load
+> 3) Traning, Test 
+> 4) Kggle 결과 확인
   
 3. 참고 문헌 및 코드
 
->> [https://www.secmem.org/blog/2020/07/19/Sentiment-Analysis/] (https://www.secmem.org/blog/2020/07/19/Sentiment-Analysis/)
+> [https://www.secmem.org/blog/2020/07/19/Sentiment-Analysis/] (https://www.secmem.org/blog/2020/07/19/Sentiment-Analysis/)
